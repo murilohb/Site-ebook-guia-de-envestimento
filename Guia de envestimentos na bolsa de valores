@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guia Prático de Investimento</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <header class="bg-blue-900 text-white py-8 text-center">
+    <h1 class="text-4xl font-bold">Guia Prático de Investimento na Bolsa de Valores</h1>
+    <p class="mt-2 text-lg">Aprenda a investir com segurança e estratégia</p>
+  </header>  <main class="max-w-4xl mx-auto p-6">
+    <!-- Seção de apresentação -->
+    <section class="my-12 text-center">
+      <img src="https://via.placeholder.com/300x400" alt="Capa do e-book" class="mx-auto rounded shadow-lg">
+      <h2 class="text-2xl font-semibold mt-6">Por que este guia é essencial?</h2>
+      <p class="mt-4 text-lg">Este e-book é ideal para iniciantes e intermediários que desejam aprender a investir de forma prática, com exemplos reais e linguagem acessível.</p>
+    </section><!-- Benefícios -->
+<section class="my-12">
+  <h3 class="text-xl font-bold mb-4">Você vai aprender:</h3>
+  <ul class="list-disc pl-6 space-y-2 text-lg">
+    <li>Como funciona a bolsa de valores</li>
+    <li>Estratégias de longo e curto prazo</li>
+    <li>Como analisar ações</li>
+    <li>Gerenciamento de risco</li>
+    <li>Como montar sua carteira de investimentos</li>
+  </ul>
+</section>
+
+<!-- Chamada para ação -->
+<section class="text-center my-12">
+  <p class="text-xl font-medium mb-4">Adquira agora seu guia por apenas <span class="text-green-600 font-bold">R$29,90</span></p>
+  <a href="#" class="bg-green-600 text-white px-6 py-3 rounded-full text-lg font-semibold hover:bg-green-700 transition">Comprar agora</a>
+</section>
+
+<!-- Depoimentos -->
+<section class="my-12">
+  <h3 class="text-xl font-bold mb-6 text-center">O que dizem os leitores:</h3>
+  <div class="grid md:grid-cols-2 gap-6">
+    <blockquote class="bg-white p-4 rounded shadow">
+      <p>“Conteúdo claro e direto ao ponto. Consegui entender como montar minha carteira!”</p>
+      <footer class="mt-2 text-sm text-gray-600">— João M.</footer>
+    </blockquote>
+    <blockquote class="bg-white p-4 rounded shadow">
+      <p>“Me ajudou a finalmente entender como a bolsa funciona. Vale cada centavo.”</p>
+      <footer class="mt-2 text-sm text-gray-600">— Camila R.</footer>
+    </blockquote>
+  </div>
+</section>
+
+  </main>  <footer class="bg-blue-900 text-white text-center py-4">
+    <p>&copy; 2025 Guia Prático de Investimento. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
